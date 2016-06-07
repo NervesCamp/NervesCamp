@@ -17,7 +17,6 @@ p {
 	text-align: center;
 	display: block;
 	margin-top: 3em;
-	padding: 1em;
 }
 
 p a {
@@ -66,9 +65,33 @@ p.coc {
 	font-size: .8em;
 }
 
+
+
+
+
+.row.white {
+	background-color: white;
+	padding: 1.5em;
+}
+
+.row.white p,
+.row.white a {
+  color: #676961;
+  font-size: .95rem;
+	text-align: center;
+	width: 75%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+
+
+
  
 #logo {
-	width: 200px;
+	width: 180px;
 	height: auto;
 	margin: 0 auto;
 	padding: 1em;
